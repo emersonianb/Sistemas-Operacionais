@@ -2,7 +2,7 @@
 
 Atividades desenvolvidas para a cadeira de Sistemas Operacionais do curso de Bacharelado em Engenharia da Computação.
 
-A linguagem utilizada para o desenvolvimento dos exercicios foi Python e C.
+As linguagens utilizadas para o desenvolvimento dos exercicios foi Python e C.
 
 <table align="center">
   <tr>
